@@ -24,4 +24,20 @@ To make the results more visually appealing and easier to interpret, I decided t
 ## The Final Touches
 I knew my script wouldn't be complete without identifying the greatest percentage increase, greatest percentage decrease, and greatest total volume. These key metrics would provide valuable insights into stock performance. I added the final piece of code to uncover these treasures and display them prominently.
 
+## Result Look:
+Here are the screenshots of different tabs in the Excel sheet which represent the Quarter change:
+* First Quarter:
+
 ![Quarter-1](https://github.com/zara5961/VBA-challenge/blob/main/Q1.png)
+
+* Second Quarter:
+
+![Quarter-2](https://github.com/zara5961/VBA-challenge/blob/main/Q2.png)
+
+* Third Quarter:
+
+![Quarter-3](https://github.com/zara5961/VBA-challenge/blob/main/Q3.png)
+
+* Fourth Quarter:
+
+![Quarter-4](https://github.com/zara5961/VBA-challenge/blob/main/Q4.png)
